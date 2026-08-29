@@ -15,6 +15,8 @@
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+
 👨‍💻 About Me
 
 🎓 Electronics & Communication Engineering student at Bannari Amman Institute of Technology.
@@ -47,8 +49,6 @@ My goal: Build reliable, useful, and innovative systems where electronics and so
 
 📡 MQTT
 
-🔌 Microcontroller communication and interfacing
-
 🌐 IoT dashboards and connected systems
 
 🛠️ Technical Interests & Skills
@@ -57,7 +57,6 @@ My goal: Build reliable, useful, and innovative systems where electronics and so
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </p>
 
@@ -66,8 +65,7 @@ My goal: Build reliable, useful, and innovative systems where electronics and so
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
   <img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=flat-square&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Microprocessors-444444?style=flat-square">
-  <img src="https://img.shields.io/badge/PCB%20Design-AutomATION?style=flat-square">
+
 </p>
 
 🌐 IoT & Communication
@@ -80,12 +78,18 @@ My goal: Build reliable, useful, and innovative systems where electronics and so
   <img src="https://img.shields.io/badge/LoRa-6A1B9A?style=flat-square">
 </p>
 
+
 🧰 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
+🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+
+</div>
