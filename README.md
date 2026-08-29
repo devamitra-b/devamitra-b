@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 
 
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+Enthusiast)](https://github.com/devamitra-b)
