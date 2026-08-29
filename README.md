@@ -2,7 +2,7 @@
 
 <img width="887" height="147" alt="image" src="https://github.com/user-attachments/assets/5d43b8ad-8527-409e-9ead-5392edfba140" />
 
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;IoT+%26+Hardware+Developer)](https://github.com/devamitra-b)
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Stu[...]
 
 <br>
 
@@ -104,14 +104,20 @@ I actively maintain and contribute to various embedded systems and IoT projects 
 
 ---
 
-## 🤝 Contributing & Support
+## 🔥 GitHub Streak & Activity
 
-I believe in collaborative development and knowledge sharing. If you find any of my projects useful:
+<div align="center">
 
-- ⭐ **Star** repositories that help you
-- 🐛 **Report Issues** for bugs or improvements
-- 📝 **Contribute** with pull requests and enhancements
-- 💬 **Discuss** ideas and suggestions
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | 937 |
+| **Current Streak** | 1 day (Aug 29) |
+| **Longest Streak** | 14 days (Jun 7 - Jun 20) |
+| **Contribution Period** | Dec 4, 2025 - Present |
+
+*Actively contributing to the embedded systems and IoT community!* 🚀
+
+</div>
 
 ---
 
