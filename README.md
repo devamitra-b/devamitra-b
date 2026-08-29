@@ -2,7 +2,7 @@
 
 
 
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+Enthusiast)](https://github.com/devamitra-b)
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;IoT+%26+Networking+Innovator)](https://github.com/devamitra-b)
 
 <br>
 
@@ -97,6 +97,10 @@ I specialize in transforming electronics concepts into practical, innovative sys
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/devamitra-b)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&theme=tokyonight)](https://github.com/devamitra-b)
+
+[![GitHub Streak Stats](https://streak-stats.demolab.com?user=devamitra-b&theme=tokyonight)](https://github.com/devamitra-b)
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=devamitra-b&theme=tokyonight&bg_color=0d1117)](https://github.com/devamitra-b)
 
 </div>
 
