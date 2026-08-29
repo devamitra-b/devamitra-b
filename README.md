@@ -1,234 +1,307 @@
-: {align="center"}
+::: {align="center"}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=DEVAMITRA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20%7C%20Embedded%20Systems&descAlignY=61&descSize=17" width="100%"/>{=html}
 
-DEVAMITRA.BIN
+<a href="https://github.com/devamitra-b">{=html}
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=ECE+Student+%7C+Embedded+Systems+Enthusiast;Building+with+Code%2C+Circuits+%26+Microcontrollers;Exploring+IoT%2C+Electronics+%26+Intelligent+Systems;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Typing SVG"/>{=html}
+</a>{=html}
 
-ECE • EMBEDDED • ELECTRONICS • BUILD
+<p>
 
-A digital lab notebook of things I learn, break, debug, and build.
+<a href="https://github.com/devamitra-b">{=html}
+<img src="https://img.shields.io/badge/GitHub-devamitra--b-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
+</a>{=html}
+<img src="https://komarev.com/ghpvc/?username=devamitra-b&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS"/>{=html}
 
-
-
+</p>
 
 :::
 
-00 // BOOT SEQUENCE
+✦ About Me
 
-$ whoami
+<table>
 
-devamitra
+<tr>
 
-$ system.profile
+<td width="55%" valign="top">
 
-FIELD        Electronics & Communication Engineering
-MODE         Learn → Build → Test → Debug → Repeat
-INTEREST     Embedded Systems / IoT / Electronics
-CURRENT      C Programming + Microcontrollers
-WORKSTYLE    Hands-on • Curious • Experimental
+Hello, I'm Devamitra 👋
 
-01 // THE IDEA
+I'm an Electronics & Communication Engineering student with a strong
+interest in the intersection of hardware and software.
 
-I like the point where code becomes a physical system.
+I enjoy turning ideas into practical systems using:
 
-Instead of keeping programming, electronics, and hardware as separate
-subjects, I am building projects that connect them:
+🔌 Microcontrollers & embedded platforms
 
-        ┌─────────────┐
-        │    IDEA     │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │    CODE     │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │  HARDWARE   │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   SENSOR    │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │    DATA     │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   ACTION    │
-        └─────────────┘
+📡 Sensors & communication interfaces
 
-02 // CURRENT LOADOUT
+💻 C / Embedded C & Python
 
-Area       Working With
+🌐 IoT and connected devices
 
-LANG     C, Python
-MCU      ESP32, Arduino, VEGA
-IoT      Sensor systems, dashboards, connectivity
-COMM     UART, SPI, I²C
-SIM      Wokwi
-DESIGN   PCB / electronics design
-TOOLS    VS Code, Arduino IDE, Git, GitHub
-LAB      Sensors, actuators, embedded prototypes
+🧩 Electronics & PCB design
 
-03 // REPOSITORY MAP
+🤖 Robotics and intelligent systems
 
-My GitHub is organized like a small engineering workspace:
+I'm currently focused on strengthening my fundamentals and building
+projects that solve real-world problems.
 
-devamitra-b/
-│
-├── code-with-c/          → C programming practice
-├── Electronics_Playground/ → electronics experiments
-├── 8085A_Toolkit/        → 8085A learning & programs
-├── Maze_with_me/         → robotics / maze project
-├── VEGA/                 → VEGA board experiments
-│
-└── project-lab/
-    ├── sensors/
-    ├── embedded/
-    ├── iot/
-    └── experiments/
+</td>
 
-Repositories will keep changing as the lab grows.
+<td width="45%" valign="top">
 
-04 // BUILDS
+PROFILE.STATUS
 
-01 --- Maze Robot
+┌──────────────────────────────┐
+│       DEVAMITRA // ECE       │
+├──────────────────────────────┤
+│ STATUS   : LEARNING + BUILD  │
+│ DOMAIN   : EMBEDDED SYSTEMS  │
+│ CODE     : C / PYTHON        │
+│ HARDWARE : ESP32 / VEGA      │
+│ INTEREST : IoT + ELECTRONICS │
+│ MODE     : HANDS-ON          │
+└──────────────────────────────┘
 
-A robotics project focused on sensing, decision-making and movement.
+</td>
 
-Stack: Arduino Sensors Embedded C Robotics
+</tr>
 
-02 --- Smart Street Light Fault Detection
+</table>
 
-An electronics/embedded concept for identifying abnormal street-light
-conditions.
+⚙️ What I Work With
 
-Stack: Sensors Microcontroller Embedded Systems IoT
+::: {align="center"}
 
-03 --- Smart Poultry Farm Monitoring
+Languages
 
-A monitoring concept combining environmental sensing with automated
-observation.
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />{=html}
 
-Stack: IoT Sensors Embedded Systems
+Embedded & Hardware
 
-04 --- Smart Dental Kit
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />{=html}
 
-A smart-device concept combining electronics, sensing and embedded
-control.
+<br>{=html}<br>{=html}
 
-Stack: Embedded Systems Sensors Microcontroller
+ESP32   VEGA Aries IoT   Sensors   UART   SPI   I²C
 
-05 --- VEGA Experiments
+Development Tools
 
-Hands-on experiments with the VEGA Aries IoT platform, serial
-communication and embedded development.
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />{=html}
 
-Stack: VEGA UART Arduino IDE Embedded C
+<br>{=html}
 
-05 // DEBUG CONSOLE
+Arduino IDE   Wokwi   Proteus   PCB Design
+:::
 
-The most useful part of embedded development is often the bug.
+🧭 My Engineering Focus
 
-EXPECTED ────────────────┐
+                    ┌──────────────────────┐
+                    │    REAL-WORLD IDEA   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │       SENSING        │
+                    │  Sensors / Signals   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      PROCESSING      │
+                    │ MCU / Embedded Code   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    COMMUNICATION     │
+                    │ UART / SPI / I²C /   │
+                    │        IoT           │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │       ACTION         │
+                    │ Automation / Alerts  │
+                    └──────────────────────┘
+
+🚀 Selected Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🌱 Smart Street Light Fault Detection
+
+An embedded system concept for monitoring street-light conditions and
+identifying faults for smarter maintenance.
+
+Focus
+
+Embedded Systems Sensors IoT
+
+</td>
+
+<td width="50%" valign="top">
+
+🤖 Maze Robot
+
+A sensor-driven robotics project focused on navigation, decision making
+and motor control.
+
+Focus
+
+Arduino Sensors Embedded C
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🐔 Smart Poultry Farm Monitoring
+
+An IoT-oriented monitoring system for observing environmental conditions
+and improving automation in poultry farming.
+
+Focus
+
+IoT Sensors Monitoring
+
+</td>
+
+<td width="50%" valign="top">
+
+🦷 Smart Dental Kit
+
+A smart electronics project combining sensing, embedded control and
+practical healthcare-oriented functionality.
+
+Focus
+
+Embedded Systems Sensors Microcontroller
+
+</td>
+
+</tr>
+
+</table>
+
+🧪 Currently Exploring
+
+::: {align="center"}
+Area       Current Direction
+
+    `C`       Problem solving & programming fundamentals
+
+Embedded C   Microcontroller-oriented development
+MCU      ESP32, Arduino & VEGA
+Protocols   UART • SPI • I²C
+IoT      Sensor-based connected systems
+Electronics  Circuits, interfacing & PCB concepts
+Embedded AI  Exploring intelligent edge systems
+:::
+
+📊 GitHub Dashboard
+
+::: {align="center"}
+<img src="https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" width="49%"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&hide_border=true&theme=transparent" width="39%"/>{=html}
+
+<br>{=html}<br>{=html}
+
+<img src="https://streak-stats.demolab.com?user=devamitra-b&hide_border=true&theme=transparent" width="65%"/>{=html}
+:::
+
+🐍 Contribution Journey
+
+::: {align="center"}
+<img src="https://raw.githubusercontent.com/devamitra-b/devamitra-b/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>{=html}
+:::
+
+📌 Learning Roadmap
+
+                    ELECTRONICS
                          │
                          ▼
-                    ┌─────────┐
-                    │ TEST    │
-                    └────┬────┘
+                    C PROGRAMMING
                          │
-                  ┌──────▼──────┐
-                  │  WORKING?   │
-                  └───┬─────┬───┘
-                    YES│     │NO
-                       │     │
-                       ▼     ▼
-                    SHIP   DEBUG
-                             │
-                ┌────────────▼────────────┐
-                │ Check wiring             │
-                │ Check voltage            │
-                │ Check baud/protocol      │
-                │ Check code               │
-                │ Check assumptions        │
-                └────────────┬────────────┘
-                             │
-                             └──────→ TEST
+                         ▼
+                    EMBEDDED C
+                         │
+                         ▼
+                  MICROCONTROLLERS
+                         │
+             ┌───────────┼───────────┐
+             ▼           ▼           ▼
+           GPIO        TIMERS      INTERRUPTS
+             │           │           │
+             └───────────┼───────────┘
+                         ▼
+                 COMMUNICATION
+                         │
+              UART • SPI • I²C
+                         │
+                         ▼
+                       IoT
+                         │
+                         ▼
+               INTELLIGENT SYSTEMS
 
-Rule: Don't guess the bug. Measure it.
+🧠 My Build Philosophy
 
-06 // LEARNING QUEUE
+Understand the circuit. Understand the code. Then connect both.
 
-[██████████░░░░░░░░░░]  C Programming
-[███████░░░░░░░░░░░░░]  Embedded C
-[██████░░░░░░░░░░░░░░]  Microcontrollers
-[█████░░░░░░░░░░░░░░░]  Communication Protocols
-[█████░░░░░░░░░░░░░░░]  IoT Systems
-[████░░░░░░░░░░░░░░░░]  PCB Design
-[███░░░░░░░░░░░░░░░░░]  Embedded AI
+I believe the best way to learn engineering is to build, test, debug
+and document.
 
-Progress bars represent learning focus, not formal skill ratings.
+LEARN
+  ↓
+EXPERIMENT
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
 
-07 // ENGINEERING PRINCIPLES
+🎯 Goals
 
-01  Understand before copying.
-02  Test hardware before blaming software.
-03  Read the datasheet.
-04  Use the serial monitor as a microscope.
-05  Keep experiments reproducible.
-06  Document the failure, not only the success.
-07  Build small → test → improve → scale.
+Strengthen C & Embedded C
 
-08 // 8085 → ESP32 → VEGA
+Build more real-world embedded projects
 
-One of the things I enjoy is seeing how the same fundamentals appear at
-different levels:
+Become confident with microcontrollers and peripherals
 
-8085
- │
- ├── Registers
- ├── Memory
- └── Instructions
-       │
-       ▼
-   Microcontrollers
-       │
-       ├── GPIO
-       ├── Timers
-       ├── UART
-       └── Interrupts
-              │
-              ▼
-        Connected Systems
-              │
-              ├── Sensors
-              ├── IoT
-              ├── Data
-              └── Automation
+Design and understand practical electronic systems
 
-09 // GITHUB ACTIVITY
+Explore IoT and embedded intelligence
+
+Build a strong engineering portfolio
+
+📬 Let's Connect
 
 ::: {align="center"}
-<img src="https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&hide_border=true&theme=transparent" width="48%"/>{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&hide_border=true&theme=transparent" width="38%"/>{=html}
-:::
+<a href="https://github.com/devamitra-b">{=html}
+<img src="https://img.shields.io/badge/GitHub-devamitra--b-181717?style=for-the-badge&logo=github"/>{=html}
+</a>{=html}
 
-10 // FIND ME
-
-::: {align="center"}
-
+<a href="https://www.linkedin.com/">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>{=html}
+</a>{=html}
 :::
 
 ::: {align="center"}
 
-┌─────────────────────────────────────────────┐
-│                                             │
-│   LEARN HARDWARE.                           │
-│   WRITE CODE.                               │
-│   DEBUG FEARLESSLY.                         │
-│   BUILD SOMETHING REAL.                     │
-│                                             │
-└─────────────────────────────────────────────┘
+BUILDING THE FOUNDATION FOR BIGGER SYSTEMS.
 
-SYSTEM STATUS: BUILDING
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" width="100%"/>{=html}
 :::
