@@ -25,42 +25,10 @@
 <tr>
 <td width="58%" valign="top">
 
-I’m an Electronics & Communication Engineering student interested in building practical systems where hardware and software work together.
 
-My learning path is centered around:
-
-Embedded systems and microcontrollers
-
-C and Embedded C
-
-Sensors and electronic interfaces
-
-IoT and connected devices
-
-Communication protocols
-
-PCB and circuit design
-
-Robotics and intelligent systems
-
-I learn best by building something, testing it, finding what went wrong, and improving it.
-
-</td>
 
 <td width="42%" valign="top">
 
-SYSTEM PROFILE
-
-┌─────────────────────────────┐
-│ DEVAMITRA // ECE            │
-├─────────────────────────────┤
-│ DOMAIN   Embedded Systems   │
-│ CODE     C / Python         │
-│ MCU      ESP32 / VEGA       │
-│ IoT      Sensors + Data     │
-│ PROTOCOL UART / SPI / I2C   │
-│ MODE     Learn + Build      │
-└─────────────────────────────┘
 
 </td>
 </tr>
@@ -96,157 +64,28 @@ Arduino IDE · Wokwi · Proteus · PCB Design
 
 <div align="center">
 
-🔌 Embedded
 
-🌐 IoT
 
-🤖 Robotics
 
-🧩 Electronics
 
-Microcontrollers
 
-Sensor systems
-
-Autonomous ideas
-
-Circuit design
-
-Firmware
-
-Monitoring
-
-Motor control
-
-PCB concepts
-
-Peripherals
-
-Data collection
-
-Navigation
-
-Interfacing
-
-</div>
-
-🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🌱 Smart Street Light Fault Detection
-
-An embedded monitoring concept designed to identify abnormal street-light conditions and support smarter maintenance.
-
-Focus:
-Sensors Embedded Systems IoT
-
-</td>
 
 <td width="50%" valign="top">
 
-🤖 Maze Robot
-
-A robotics project focused on sensor-based navigation, decision making and motor control.
-
-Focus:
-Arduino Sensors Embedded C
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🐔 Smart Poultry Farm Monitoring
-
-An IoT-oriented monitoring concept for observing environmental conditions and improving automation.
-
-Focus:
-IoT Sensors Monitoring
-
-</td>
 
 <td width="50%" valign="top">
 
-🦷 Smart Dental Kit
 
-A smart electronics concept combining sensors, embedded control and practical device functionality.
 
-Focus:
-Embedded Systems Sensors Microcontroller
+<td width="50%" valign="top">
 
-</td>
-</tr>
-</table>
 
-🔬 Engineering Mindset
+
 
 <div align="center">
 
-      IDEA
-       │
-       ▼
-    DESIGN
-       │
-       ▼
-     BUILD
-       │
-       ▼
-      TEST
-       │
-    ┌──┴──┐
-    │     │
-   PASS  FAIL
-    │     │
-    │     ▼
-    │   DEBUG
-    │     │
-    │     └──────► IMPROVE
-    │
-    └────────────► SHIP
-
-Understand the circuit. Understand the code. Then connect both.
-
-</div>
-
-📚 Currently Learning
-
-Area
-
-Focus
-
-C Programming
-
-Logic, problem solving, arrays, functions, pointers
-
-Embedded C
-
-Writing firmware for microcontrollers
-
-Microcontrollers
-
-GPIO, timers, interrupts and peripherals
-
-Communication
-
-UART, SPI and I²C
-
-IoT
-
-Sensor data and connected systems
-
-Electronics
-
-Interfacing, circuits and PCB concepts
-
-Embedded AI
-
-Exploring intelligent edge systems
-
-📊 GitHub Activity
+    
+ 
 
 <div align="center">
 
@@ -260,7 +99,6 @@ Exploring intelligent edge systems
 
 </div>
 
-🐍 Contribution Activity
 
 <div align="center">
 
@@ -268,17 +106,16 @@ Exploring intelligent edge systems
 
 </div>
 
-🎯 2026 Goals
+
 
 <div align="center">
 
-C → Embedded C → Microcontrollers → Protocols → IoT → Intelligent Systems
 
 </div>
 
-I’m working toward becoming strong at both electronics fundamentals and practical embedded development.
+.
 
-🌐 Connect
+
 
 <div align="center">
 
@@ -296,7 +133,7 @@ I’m working toward becoming strong at both electronics fundamentals and practi
 
 <div align="center">
 
-BUILD • TEST • DEBUG • IMPROVE
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563eb,100:0f172a" width="100%">
 
