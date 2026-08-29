@@ -91,13 +91,9 @@ I specialize in transforming electronics concepts into practical, innovative sys
 
 ---
 
-## 📈 GitHub Statistics
 
-<div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/devamitra-b)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&theme=tokyonight)](https://github.com/devamitra-b)
 
 </div>
 
