@@ -35,7 +35,6 @@ I specialize in transforming electronics concepts into practical, innovative sys
 |-------|-----------|
 | ⚡ **ESP32** | Advanced microcontroller programming |
 | 🧩 **Altium Designer** | Professional PCB design |
-| 🐧 **Embedded Linux** | Linux kernel and embedded systems |
 | 📡 **MQTT** | IoT communication protocols |
 | 🌐 **IoT Dashboards** | Connected systems and data visualization |
 
