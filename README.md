@@ -1,183 +1,113 @@
-<!-- ========================================================= -->
-<!--                    DEVAMITRA B                            -->
-<!-- ========================================================= -->
+<div align="center">
 
-<!-- HEADER -->
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=DEVAMITRA&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=ECE%20%7C%20Embedded%20Systems&descAlign=62)
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:06152B,100:082F49&height=280&section=header&text=DEVAMITRA%20B&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=EMBEDDED%20SYSTEMS%20%E2%80%A2%20IoT%20%E2%80%A2%20AI&descAlignY=60&descSize=19&descColor=22D3EE&animation=fadeIn"
-    width="100%"
-  />
-</p>
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+Enthusiast)](https://github.com/devamitra-b)
 
 <br>
 
-<p align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-devamitra--b-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devamitra-b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Embedded+Systems+Enthusiast;Hardware+%2B+Software+Builder;ESP32+%7C+IoT+%7C+MQTT+%7C+RISC-V;AI+%7C+Computer+Vision;Build+%E2%80%A2+Debug+%E2%80%A2+Improve" />
-
-</p>
-
-<p align="center">
-
-⚡ **Embedded Systems**
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🌐 **IoT**
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🤖 **AI**
-&nbsp;&nbsp; • &nbsp;&nbsp;
-👁️ **Computer Vision**
-
-</p>
-
-<br>
+</div>
 
 ---
 
-<!-- ABOUT ME -->
+## 👨‍💻 About Me
 
-## `> ABOUT ME_`
+🎓 **Electronics & Communication Engineering** student at **Bannari Amman Institute of Technology**.
 
-<table>
-<tr>
+I specialize in transforming electronics concepts into practical, innovative systems by seamlessly integrating hardware, firmware, communication protocols, and software solutions.
 
-<td width="55%" valign="top">
+### 🎯 Core Interests
 
-### 👋 Hello, I'm Devamitra B
+- Embedded Systems — Design and development of microcontroller-based solutions.
+- Internet of Things (IoT) — Connected devices, data acquisition, and cloud integration.
+- Embedded Communication & Networking — Protocols, wireless technologies, and low-power connectivity.
 
-I'm an **Electronics & Communication Engineering undergraduate** passionate about building practical systems where **hardware and software work together**.
+**🎯 Mission:** Build reliable, scalable, and innovative systems where electronics and software work harmoniously together.
 
-I enjoy exploring embedded systems, connected devices, communication protocols and intelligent applications.
+---
 
-```text
-> Building.
-> Debugging.
-> Improving.
-> Turning ideas into working systems.
-</td> </tr> </table>
-<!-- TECH STACK -->
-> TECH STACK_
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode" /> </p> <br> <p align="center"> <img src="https://img.shields.io/badge/ESP32-020617?style=for-the-badge&logo=espressif&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/MQTT-020617?style=for-the-badge&logo=mqtt&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/RISC--V-020617?style=for-the-badge&logo=riscv&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/UART-020617?style=for-the-badge&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/SPI-020617?style=for-the-badge&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/I2C-020617?style=for-the-badge&logoColor=22D3EE"/> </p>
-<!-- FEATURED AREAS -->
-> FEATURED AREAS_
-<table> <tr> <td align="center" width="25%">
-⚡
-EMBEDDED SYSTEMS
+## 🌱 Currently Learning
 
-Building and programming embedded applications using microcontrollers and peripherals.
+| Topic | Focus Area |
+|-------|-----------|
+| ⚡ **ESP32** | Advanced microcontroller programming |
+| 🧩 **Altium Designer** | Professional PCB design |
+| 📡 **MQTT** | IoT communication protocols |
+| 🌐 **IoT Dashboards** | Connected systems and data visualization |
 
-</td> <td align="center" width="25%">
-🌐
-INTERNET OF THINGS
+---
 
-Building connected devices and systems using ESP32, Wi-Fi, MQTT and sensors.
+## 🛠️ Technical Skills
 
-</td> <td align="center" width="25%">
-🤖
-AI & COMPUTER VISION
+### 💻 Programming Languages
+<div align="center">
 
-Exploring intelligent systems, image processing and computer vision.
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</td> <td align="center" width="25%">
-📡
-COMMUNICATION
+</div>
 
-Working with communication protocols such as UART, SPI and I²C.
+### 🔌 Embedded & Electronics
+<div align="center">
 
-</td> </tr> </table>
-<!-- PROJECTS -->
-> SELECTED PROJECTS_
-<p align="center"> <a href="https://github.com/devamitra-b/VEGA"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=devamitra-b&repo=VEGA&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1&icon_color=0EA5E9" /> </a> <a href="https://github.com/devamitra-b/Electronics_Playground"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=devamitra-b&repo=Electronics_Playground&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1&icon_color=0EA5E9" /> </a> </p> <p align="center"> <a href="https://github.com/devamitra-b/8085A_Toolkit"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=devamitra-b&repo=8085A_Toolkit&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1&icon_color=0EA5E9" /> </a> <a href="https://github.com/devamitra-b/code-with-c"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=devamitra-b&repo=code-with-c&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1&icon_color=0EA5E9" /> </a> </p> <p align="center"> <a href="https://github.com/devamitra-b/Maze_with_me"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=devamitra-b&repo=Maze_with_me&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1&icon_color=0EA5E9" /> </a> </p>
-<!-- CURRENT FOCUS -->
-> CURRENT FOCUS_
-                       EMBEDDED SYSTEMS
-                              │
-                              ▼
-                           ESP32
-                              │
-                 ┌────────────┴────────────┐
-                 ▼                         ▼
-                IoT                      RISC-V
-                 │                         │
-                 ▼                         ▼
-               MQTT                      VEGA
-                 │
-                 ▼
-        WIRELESS COMMUNICATION
-                 │
-                 ▼
-          AI + COMPUTER VISION
-                 │
-                 ▼
-        REAL-WORLD APPLICATIONS
-<!-- GITHUB STATS -->
-> GITHUB STATS_
-<p align="center">
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-333333?style=flat-square&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=22D3EE&text_color=CBD5E1&icon_color=0EA5E9" height="175" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=22D3EE&text_color=CBD5E1" height="175" />
+### 🌐 IoT & Communication Protocols
+<div align="center">
 
-</p>
-<!-- STREAK -->
-> CONTRIBUTION STREAK_
-<p align="center">
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00897B?style=flat-square&logo=iot&logoColor=white)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0D47A1?style=flat-square&logo=wifi&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-6A1B9A?style=flat-square&logo=lora&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=devamitra-b&theme=transparent&hide_border=true&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B" width="75%" />
+</div>
 
-</p>
-<!-- ACTIVITY GRAPH -->
-> ACTIVITY_
-<p align="center">
+### 🧰 Tools & Design Software
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devamitra-b&bg_color=00000000&color=22D3EE&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%" />
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</p>
-<!-- CONTRIBUTION SNAKE -->
-> CONTRIBUTION GRAPH_
-<p align="center">
+</div>
 
-<img src="https://raw.githubusercontent.com/devamitra-b/devamitra-b/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+---
 
-</p>
-<!-- LEARNING -->
-> CURRENTLY LEARNING_
-<table> <tr> <td width="50%" valign="top">
-🔧 Embedded
-ESP32
-RISC-V
-VEGA
-UART
-SPI
-I²C
-Wi-Fi
-Bluetooth
-</td> <td width="50%" valign="top">
-🤖 Intelligent Systems
-Artificial Intelligence
-Computer Vision
-Image Processing
-IoT Applications
-Device Communication
-MQTT
-</td> </tr> </table>
-<!-- GITHUB METRICS -->
-> GITHUB METRICS_
-<p align="center">
+## 📊 Contribution Activity
 
-<img src="./assets/metrics.svg" alt="GitHub Metrics" width="100%" />
+<div align="center">
 
-</p>
-<!-- ACHIEVEMENTS -->
-> ACHIEVEMENTS_
-<p align="center">
+[![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/devamitra-b)
 
-<img src="./assets/achievements.svg" alt="GitHub Achievements" width="75%" />
+</div>
 
-</p>
-<!-- CONNECT -->
-> LET'S CONNECT_
-<p align="center"> <a href="https://github.com/devamitra-b"> <img src="https://img.shields.io/badge/GitHub-devamitra--b-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/> </a> <a href="https://www.linkedin.com/in/devamitra-b-b08408381/"> <img src="https://img.shields.io/badge/LinkedIn-Devamitra%20B-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/> </a> </p> <br> <p align="center">
-CODE • BUILD • DEBUG • DEPLOY • IMPACT
-</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=devamitra-b&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/> </p>
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/devamitra-b)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&theme=tokyonight)](https://github.com/devamitra-b)
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!** 🚀
+
+*Feel free to explore my repositories and get in touch!*
+
+</div>
