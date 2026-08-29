@@ -12,9 +12,16 @@
 </div>
 
 ---
-🐍 My Contributions
+## 🐍 CONTRIBUTION SNAKE
 
-<p align="center"> <img src="https://raw.githubusercontent.com/devamitra-b/devamitra-b/output/github-contribution-grid-snake.svg" /> </p>
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/devamitra-b/devamitra-b/output/github-contribution-grid-snake.svg"
+alt="Devamitra B Contribution Snake"
+/>
+
+</div>
 ## 👨‍💻 About Me
 
 🎓 **Electronics & Communication Engineering** student at **Bannari Amman Institute of Technology**.
