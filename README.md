@@ -11,12 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;Building+with+Code+%2B+Circuits+%2B+Microcontrollers;Exploring+IoT+%26+Intelligent+Systems" alt="Typing SVG">
 </a>
 
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563eb,100:0f172a" width="100%">
-
 </div>
 
 <a href="https://github.com/devamitra-b">
