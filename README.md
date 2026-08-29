@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="887" height="147" alt="image" src="https://github.com/user-attachments/assets/5d43b8ad-8527-409e-9ead-5392edfba140" />
+
 
 
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+Enthusiast)](https://github.com/devamitra-b)
