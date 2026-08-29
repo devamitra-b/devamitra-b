@@ -1,8 +1,8 @@
 <div align="center">
 
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=DEVAMITRA&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=ECE%20%7C%20Embedded%20Systems%20%7C%20IoT)
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=DEVAMITRA&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=ECE%20%7C%20Embedded%20Systems&descAlign=62)
 
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Engineer;IoT+%26+IoT+Enthusiast;PCB+Designer;AI+%26+Computer+Vision+Enthusiast)](https://github.com/devamitra-b)
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+Enthusiast)](https://github.com/devamitra-b)
 
 <br>
 
@@ -21,12 +21,9 @@ I specialize in transforming electronics concepts into practical, innovative sys
 
 ### 🎯 Core Interests
 
-- 🔧 **Embedded Systems** - Designing and developing microcontroller-based solutions
-- 🌐 **Internet of Things (IoT)** - Connected devices and smart systems
-- 🧩 **PCB Design** - Creating custom circuit boards with industry-standard tools
-- 🤖 **Artificial Intelligence** - Machine learning applications in embedded systems
-- 👁️ **Computer Vision** - Image processing and visual intelligence
-- 📡 **Embedded Communication & Networking** - Protocols and wireless technologies
+- Embedded Systems — Design and development of microcontroller-based solutions.
+- Internet of Things (IoT) — Connected devices, data acquisition, and cloud integration.
+- Embedded Communication & Networking — Protocols, wireless technologies, and low-power connectivity.
 
 **🎯 Mission:** Build reliable, scalable, and innovative systems where electronics and software work harmoniously together.
 
