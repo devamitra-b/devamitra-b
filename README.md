@@ -1,45 +1,404 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:06152B,100:0EA5E9&height=240&section=header&text=DEVAMITRA%20B&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=EMBEDDED%20SYSTEMS%20%E2%80%A2%20IoT%20%E2%80%A2%20AI&descAlignY=62&descSize=19&descColor=22D3EE&animation=fadeIn"/>
+<!-- ========================= HEADER ========================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineering;Embedded+Systems+Enthusiast;ESP32+%7C+IoT+%7C+MQTT+%7C+RISC-V;AI+%7C+Computer+Vision;Turning+Ideas+Into+Working+Systems" />
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#030303">
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-020617?style=for-the-badge&logo=espressif&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/IoT-020617?style=for-the-badge&logo=wifi&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/AI-020617?style=for-the-badge&logo=python&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/RISC--V-020617?style=for-the-badge&logo=riscv&logoColor=22D3EE"/>
+# <font color="#FFFFFF">DEVAMITRA B</font>
+
+### <font color="#C77DFF">E M B E D D E D &nbsp; S Y S T E M S &nbsp; • &nbsp; I o T &nbsp; • &nbsp; A I</font>
+
+<br>
+
+<font color="#A855F7">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</font>
+
+<br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
+
+<!-- ========================================================= -->
+<!--                       ABOUT + TECH                        -->
+<!-- ========================================================= -->
+
+<table width="100%">
+<tr>
+
+<td width="30%" valign="top" bgcolor="#030303">
+
+## 👤 <font color="#D8B4FE">ABOUT ME</font>
+
+I'm an **Electronics & Communication Engineering undergraduate** who loves building smart, efficient and real-world embedded systems.
+
+I enjoy exploring the intersection of **hardware, firmware and intelligent software** to create impactful solutions.
+
+<br>
+
+<table width="100%">
+<tr>
+<td bgcolor="#07030B">
+
+```text
+> Build.
+> Debug.
+> Improve.
+> Make it matter.
+```
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="70%" valign="top" bgcolor="#030303">
+
+## ⚙️ <font color="#D8B4FE">TECH STACK</font>
+
+<table width="100%">
+<tr>
+
+<td width="45%" valign="top">
+
+### <font color="#C77DFF">LANGUAGES</font>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+
+</p>
+
+<p align="center">
+
+`C` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+`C++` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+`Python`
+
+</p>
+
+<br>
+
+### <font color="#C77DFF">TOOLS & PLATFORMS</font>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+
+</p>
+
+<p align="center">
+
+`Git` &nbsp;&nbsp;
+`GitHub` &nbsp;&nbsp;
+`VS Code` &nbsp;&nbsp;
+`Arduino`
+
+</p>
+
+</td>
+
+<td width="55%" valign="top">
+
+### <font color="#C77DFF">EMBEDDED & IoT</font>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+🔥
+
+<br>
+
+`ESP32`
+
+</td>
+
+<td align="center">
+
+📡
+
+<br>
+
+`MQTT`
+
+</td>
+
+<td align="center">
+
+🔷
+
+<br>
+
+`RISC-V`
+
+</td>
+
+<td align="center">
+
+⚡
+
+<br>
+
+`UART`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+▣
+
+<br>
+
+`SPI`
+
+</td>
+
+<td align="center">
+
+▣
+
+<br>
+
+`I2C`
+
+</td>
+
+<td align="center">
+
+📶
+
+<br>
+
+`Wi-Fi`
+
+</td>
+
+<td align="center">
+
+◉
+
+<br>
+
+`Sensors`
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                      -->
+<!-- ========================================================= -->
+
+<table width="100%">
+<tr>
+
+<td width="30%" valign="top" bgcolor="#030303">
+
+## 📁 <font color="#D8B4FE">FEATURED PROJECTS</font>
 
 ---
 
-<div align="center">
+### <font color="#C77DFF">VEGA</font>
 
-## `> BUILDING AT THE EDGE_`
+Exploring VEGA RISC-V ecosystem, embedded programming, and peripheral communication.
 
-**Hardware × Firmware × Connectivity × Intelligence**
+---
 
-</div>
+### <font color="#C77DFF">Electronics_Playground</font>
+
+A collection of electronics concepts, experiments and learning resources.
+
+---
+
+### <font color="#C77DFF">8085A_Toolkit</font>
+
+8085A microprocessor concepts, assembly programming and interfacing experiments.
+
+---
+
+### <font color="#C77DFF">code-with-c</font>
+
+C programming exercises and problem solving for building strong fundamentals.
+
+---
+
+### <font color="#C77DFF">Maze_with_me</font>
+
+A fun maze solving project built with logic and efficient path finding.
+
+</td>
+
+<!-- ========================================================= -->
+<!--                       GITHUB STATS                        -->
+<!-- ========================================================= -->
+
+<td width="50%" valign="top" bgcolor="#030303">
+
+## 📊 <font color="#D8B4FE">GITHUB STATS</font>
+
+<table width="100%">
+<tr>
+
+<td align="center" bgcolor="#050505">
+
+### Total Contributions
+
+# <font color="#C77DFF">1.1K+</font>
+
+</td>
+
+<td align="center" bgcolor="#050505">
+
+### Current Streak
+
+# <font color="#C77DFF">25</font>
+
+<font color="#A855F7">days</font>
+
+</td>
+
+<td align="center" bgcolor="#050505">
+
+### Top Language
+
+# <font color="#C77DFF">C++</font>
+
+<font color="#A855F7">42.5%</font>
+
+</td>
+
+<td align="center" bgcolor="#050505">
+
+### Repositories
+
+# <font color="#C77DFF">20+</font>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<table>
+## 📈 <font color="#D8B4FE">ACTIVITY GRAPH</font>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=devamitra-b&bg_color=030303&color=C77DFF&line=A855F7&point=FFFFFF&area=true&hide_border=true"
+width="100%"
+/>
+
+</div>
+
+</td>
+
+<!-- ========================================================= -->
+<!--                  CURRENTLY EXPLORING                      -->
+<!-- ========================================================= -->
+
+<td width="20%" valign="top" bgcolor="#030303">
+
+## 🚀 <font color="#D8B4FE">CURRENTLY EXPLORING</font>
+
+<br>
+
+<font color="#C77DFF">◉</font> ESP32 & Advanced IoT
+
+<br><br>
+
+<font color="#C77DFF">◉</font> MQTT & Device Communication
+
+<br><br>
+
+<font color="#C77DFF">◉</font> RISC-V / VEGA Development
+
+<br><br>
+
+<font color="#C77DFF">◉</font> AI & Machine Learning
+
+<br><br>
+
+<font color="#C77DFF">◉</font> Computer Vision
+
+<br><br>
+
+<font color="#C77DFF">◉</font> Wireless Protocols
+
+<br><br>
+
+---
+
+## ✈️ <font color="#D8B4FE">LET'S CONNECT</font>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/github.com/devamitra--b-050505?style=for-the-badge&logo=github&logoColor=C77DFF)](https://github.com/devamitra-b)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fdevamitra--b-050505?style=for-the-badge&logo=linkedin&logoColor=C77DFF)](https://www.linkedin.com/in/devamitra-b/)
+
+<br>
+
+[![Email](https://img.shields.io/badge/devamitrab%40gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=C77DFF)](mailto:devamitrab@gmail.com)
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                         FOOTER                            -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td align="center" bgcolor="#030303">
 
-## `01 / ABOUT ME`
+<br>
 
-Hello! I'm **Devamitra B** — an **Electronics & Communication Engineering undergraduate** who enjoys building systems where hardware and software come together.
+<font color="#C77DFF">
 
-I'm particularly interested in **embedded systems, IoT, communication protocols, ESP32, RISC-V, AI and computer vision**.
+## `</>`
 
-I enjoy working close to the hardware, understanding how systems communicate, debugging problems and turning concepts into working prototypes.
+</font>
 
-```text
-BUILD       →       TEST
-                     ↓
-IMPROVE     ←       DEBUG
+<br>
+
+# <font color="#C77DFF">C O D E &nbsp; • &nbsp; B U I L D &nbsp; • &nbsp; D E B U G &nbsp; • &nbsp; D E P L O Y &nbsp; • &nbsp; I M P A C T</font>
+
+<br>
+
+</td>
+</tr>
+</table>
+
+</div>
