@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://github.com/devamitra-b">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;Building+with+Code+%2B+Circuits+%2B+Microcontrollers;Exploring+IoT+%26+Intelligent+Systems" alt="Typing SVG">
+</a>
 
 
-<br><br>
-
-<div align="center">
 
 
 
