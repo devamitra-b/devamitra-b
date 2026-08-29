@@ -86,35 +86,6 @@ I specialize in transforming electronics concepts into practical, innovative sys
 
 ---
 
-## 🚀 GitHub Presence & Maintenance
-
-I actively maintain and contribute to various embedded systems and IoT projects on GitHub. My repositories focus on:
-
-- **Embedded Systems Projects** — Microcontroller applications, firmware development, and hardware integration
-- **IoT Solutions** — Smart devices, sensor networks, and connected systems
-- **Educational Resources** — Tutorials, examples, and documentation for embedded systems development
-- **Open Source Contributions** — Supporting the embedded systems and IoT community
-
-### 📌 Repository Guidelines
-
-- **Active Development**: Most projects follow the latest best practices in embedded systems design
-- **Documentation**: Comprehensive README files and inline code comments
-- **Community**: Issues and pull requests are welcome for improvements and bug fixes
-- **Maintenance**: Regular updates to keep dependencies and practices current
-
----
-
-## 🤝 Contributing & Support
-
-I believe in collaborative development and knowledge sharing. If you find any of my projects useful:
-
-- ⭐ **Star** repositories that help you
-- 🐛 **Report Issues** for bugs or improvements
-- 📝 **Contribute** with pull requests and enhancements
-- 💬 **Discuss** ideas and suggestions
-
----
-
 <div align="center">
 
 **Let's build something amazing together!** 🚀
