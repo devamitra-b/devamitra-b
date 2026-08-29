@@ -9,7 +9,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
+## 📊 Contribution Activity
 
+<div align="center">
+
+[![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/devamitra-b)
+
+</div>
+
+---
 ---
 
 ## 👨‍💻 About Me
@@ -81,15 +89,7 @@ I specialize in transforming electronics concepts into practical, innovative sys
 
 ---
 
-## 📊 Contribution Activity
 
-<div align="center">
-
-[![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/devamitra-b)
-
-</div>
-
----
 
 
 
