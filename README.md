@@ -1,8 +1,7 @@
-<div align="center">
+<img width="887" height="147" alt="Screenshot 2026-08-29 221024" src="https://github.com/user-attachments/assets/ec6e6354-12fa-4a53-9d5e-06bc7a31435d" />
 
-<img width="887" height="147" alt="image" src="https://github.com/user-attachments/assets/5d43b8ad-8527-409e-9ead-5392edfba140" />
 
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Building+Innovative+Embedded+Systems;Transforming+Ideas+into+Reality+🚀)](https://github.com/devamitra-b)
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+Enthusiast)](https://github.com/devamitra-b)
 
 <br>
 
@@ -12,16 +11,7 @@
 </div>
 
 ---
-## 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/devamitra-b/devamitra-b/output/github-contribution-grid-snake.svg"
-alt="Devamitra B Contribution Snake"
-/>
-
-</div>
 ## 👨‍💻 About Me
 
 🎓 **Electronics & Communication Engineering** student at **Bannari Amman Institute of Technology**.
@@ -30,9 +20,9 @@ I specialize in transforming electronics concepts into practical, innovative sys
 
 ### 🎯 Core Interests
 
-- **Embedded Systems** — Design and development of microcontroller-based solutions
-- **Internet of Things (IoT)** — Connected devices, data acquisition, and cloud integration
-- **Embedded Communication & Networking** — Protocols, wireless technologies, and low-power connectivity
+- Embedded Systems — Design and development of microcontroller-based solutions.
+- Internet of Things (IoT) — Connected devices, data acquisition, and cloud integration.
+- Embedded Communication & Networking — Protocols, wireless technologies, and low-power connectivity.
 
 **🎯 Mission:** Build reliable, scalable, and innovative systems where electronics and software work harmoniously together.
 
@@ -52,7 +42,6 @@ I specialize in transforming electronics concepts into practical, innovative sys
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -61,7 +50,6 @@ I specialize in transforming electronics concepts into practical, innovative sys
 </div>
 
 ### 🔌 Embedded & Electronics
-
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -71,7 +59,6 @@ I specialize in transforming electronics concepts into practical, innovative sys
 </div>
 
 ### 🌐 IoT & Communication Protocols
-
 <div align="center">
 
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
@@ -83,13 +70,34 @@ I specialize in transforming electronics concepts into practical, innovative sys
 </div>
 
 ### 🧰 Tools & Design Software
-
 <div align="center">
 
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+[![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/devamitra-b)
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/devamitra-b)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&theme=tokyonight)](https://github.com/devamitra-b)
 
 </div>
 
