@@ -1,95 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=DEVAMITRA&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=ECE%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=60&descSize=18" width="100%">
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=DEVAMITRA&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=ECE%20%7C%20Embedded%20Systems%20%7C%20IoT)
+
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Engineer;IoT+%26+IoT+Enthusiast;PCB+Designer;AI+%26+Computer+Vision+Enthusiast)](https://github.com/devamitra-b)
+
 <br>
-<div align="center">
-<a href="https://github.com/devamitra-b">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;Building+with+Code+%2B+Circuits+%2B+Microcontrollers;Exploring+IoT+%26+Intelligent+Systems" alt="Typing SVG">
-</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-devamitra--b-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devamitra-b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 </div>
 
-<a href="https://github.com/devamitra-b">
-  <img src="https://img.shields.io/badge/GitHub-devamitra--b-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+---
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+## 👨‍💻 About Me
 
+🎓 **Electronics & Communication Engineering** student at **Bannari Amman Institute of Technology**.
 
-👨‍💻 About Me
+I specialize in transforming electronics concepts into practical, innovative systems by seamlessly integrating hardware, firmware, communication protocols, and software solutions.
 
-🎓 Electronics & Communication Engineering student at Bannari Amman Institute of Technology.
+### 🎯 Core Interests
 
-I enjoy turning electronics concepts into practical systems by combining hardware, firmware, communication protocols, and software.
+- 🔧 **Embedded Systems** - Designing and developing microcontroller-based solutions
+- 🌐 **Internet of Things (IoT)** - Connected devices and smart systems
+- 🧩 **PCB Design** - Creating custom circuit boards with industry-standard tools
+- 🤖 **Artificial Intelligence** - Machine learning applications in embedded systems
+- 👁️ **Computer Vision** - Image processing and visual intelligence
+- 📡 **Embedded Communication & Networking** - Protocols and wireless technologies
 
-I'm especially interested in:
+**🎯 Mission:** Build reliable, scalable, and innovative systems where electronics and software work harmoniously together.
 
-🔧 Embedded Systems
+---
 
-🌐 Internet of Things (IoT)
+## 🌱 Currently Learning
 
-🧩 PCB Design
+| Topic | Focus Area |
+|-------|-----------|
+| ⚡ **ESP32** | Advanced microcontroller programming |
+| 🧩 **Altium Designer** | Professional PCB design |
+| 🐧 **Embedded Linux** | Linux kernel and embedded systems |
+| 📡 **MQTT** | IoT communication protocols |
+| 🌐 **IoT Dashboards** | Connected systems and data visualization |
 
-🤖 Artificial Intelligence
+---
 
-👁️ Computer Vision
+## 🛠️ Technical Skills
 
-📡 Embedded Communication & Networking
+### 💻 Programming Languages
+<div align="center">
 
-My goal: Build reliable, useful, and innovative systems where electronics and software work together.
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🌱 Currently Learning
+</div>
 
-⚡ ESP32
+### 🔌 Embedded & Electronics
+<div align="center">
 
-🧩 Altium Designer
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-333333?style=flat-square&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-🐧 Embedded Linux
+</div>
 
-📡 MQTT
+### 🌐 IoT & Communication Protocols
+<div align="center">
 
-🌐 IoT dashboards and connected systems
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00897B?style=flat-square&logo=iot&logoColor=white)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0D47A1?style=flat-square&logo=wifi&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-6A1B9A?style=flat-square&logo=lora&logoColor=white)
 
-🛠️ Technical Interests & Skills
+</div>
 
-💻 Programming
+### 🧰 Tools & Design Software
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-</p>
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-🔌 Embedded & Electronics
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=flat-square&logo=arduino&logoColor=white">
+---
 
-</p>
-
-🌐 IoT & Communication
-
-<p>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white">
-  <img src="https://img.shields.io/badge/IoT-00897B?style=flat-square">
-  <img src="https://img.shields.io/badge/Wi--Fi-0D47A1?style=flat-square&logo=wifi&logoColor=white">
-  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white">
-  <img src="https://img.shields.io/badge/LoRa-6A1B9A?style=flat-square">
-</p>
-
-
-🧰 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</p>
-🐍 Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+[![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/devamitra-b)
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/devamitra-b)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&theme=tokyonight)](https://github.com/devamitra-b)
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!** 🚀
+
+*Feel free to explore my repositories and get in touch!*
 
 </div>
