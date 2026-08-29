@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=DEVAMITRA&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=ECE%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=60&descSize=18" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563eb,100:0f172a" width="100%">
 <br>
 
 <a href="https://github.com/devamitra-b">
