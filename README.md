@@ -2,7 +2,7 @@
 
 <img width="887" height="147" alt="image" src="https://github.com/user-attachments/assets/5d43b8ad-8527-409e-9ead-5392edfba140" />
 
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;IoT+Developer)](https://github.com/devamitra-b)
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;IoT+%26+Hardware+Developer)](https://github.com/devamitra-b)
 
 <br>
 
@@ -86,29 +86,32 @@ I specialize in transforming electronics concepts into practical, innovative sys
 
 ---
 
-## 📊 Contribution Activity
+## 🚀 GitHub Presence & Maintenance
 
-<div align="center">
+I actively maintain and contribute to various embedded systems and IoT projects on GitHub. My repositories focus on:
 
-[![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/devamitra-b)
+- **Embedded Systems Projects** — Microcontroller applications, firmware development, and hardware integration
+- **IoT Solutions** — Smart devices, sensor networks, and connected systems
+- **Educational Resources** — Tutorials, examples, and documentation for embedded systems development
+- **Open Source Contributions** — Supporting the embedded systems and IoT community
 
-</div>
+### 📌 Repository Guidelines
+
+- **Active Development**: Most projects follow the latest best practices in embedded systems design
+- **Documentation**: Comprehensive README files and inline code comments
+- **Community**: Issues and pull requests are welcome for improvements and bug fixes
+- **Maintenance**: Regular updates to keep dependencies and practices current
 
 ---
 
-## 📈 GitHub Statistics
+## 🤝 Contributing & Support
 
-<div align="center">
+I believe in collaborative development and knowledge sharing. If you find any of my projects useful:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/devamitra-b)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&theme=tokyonight)](https://github.com/devamitra-b)
-
-[![GitHub Streak Stats](https://streak-stats.demolab.com?user=devamitra-b&theme=tokyonight)](https://github.com/devamitra-b)
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=devamitra-b&theme=tokyonight&bg_color=0d1117)](https://github.com/devamitra-b)
-
-</div>
+- ⭐ **Star** repositories that help you
+- 🐛 **Report Issues** for bugs or improvements
+- 📝 **Contribute** with pull requests and enhancements
+- 💬 **Discuss** ideas and suggestions
 
 ---
 
