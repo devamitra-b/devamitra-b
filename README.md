@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DEVAMITRA B</h1>
 <h3 align="center">Embedded Engineer</h3>
 
-- 🔭 currently working on VEGATHAON   [Smart Street Light Monitoring and SOS system](devamitra-b/VEGA)
+- 🔭 currently working on VEGATHAON  ** [Smart Street Light Monitoring and SOS system](devamitra-b/VEGA)**
 
 - 📫 How to reach me **devamitra2107@gmail.com**
 
