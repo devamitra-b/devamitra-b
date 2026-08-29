@@ -19,12 +19,6 @@
 
 <br><br>
 
-<a href="https://github.com/devamitra-b">
-  <img src="https://img.shields.io/badge/GitHub-devamitra--b-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://github.com/devamitra-b?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 </div>
 
