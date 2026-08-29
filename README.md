@@ -1,134 +1,234 @@
-<div align="center">
+: {align="center"}
 
-# 👋 Hi, I'm Devamitra
+DEVAMITRA.BIN
 
-### `ECE Student | Embedded Systems Enthusiast | IoT Developer`
+ECE • EMBEDDED • ELECTRONICS • BUILD
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineering;Embedded+Systems+Enthusiast;Learning+C+Programming;IoT+%7C+Microcontrollers+%7C+Electronics;Turning+Ideas+into+Working+Systems">
+A digital lab notebook of things I learn, break, debug, and build.
 
-</div>
 
----
 
-## 🧑‍💻 About Me
 
-🎓 Electronics & Communication Engineering Student  
-🏫 Bannari Amman Institute of Technology  
-⚡ Passionate about Embedded Systems & Electronics  
-🔌 Interested in Microcontrollers, Sensors & IoT  
-💻 Currently improving my C Programming skills  
-🛠️ Enjoy building hardware + software projects  
-🚀 Exploring the world of Embedded Engineering
+:::
 
-> **"Learning electronics. Writing code. Building systems."**
+00 // BOOT SEQUENCE
 
----
+$ whoami
 
-## 🔭 Currently Learning
+devamitra
 
-- 🔹 C Programming
-- 🔹 Embedded C
-- 🔹 Microcontrollers
-- 🔹 UART / SPI / I2C
-- 🔹 Sensors & Actuators
-- 🔹 IoT Systems
-- 🔹 PCB Design
-- 🔹 Embedded Communication
-- 🔹 Basic AI / Machine Learning
+$ system.profile
 
----
+FIELD        Electronics & Communication Engineering
+MODE         Learn → Build → Test → Debug → Repeat
+INTEREST     Embedded Systems / IoT / Electronics
+CURRENT      C Programming + Microcontrollers
+WORKSTYLE    Hands-on • Curious • Experimental
 
-## 🧰 Tech Stack
+01 // THE IDEA
 
-### 💻 Programming
+I like the point where code becomes a physical system.
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
+Instead of keeping programming, electronics, and hardware as separate
+subjects, I am building projects that connect them:
 
-### 🔧 Embedded & Electronics
+        ┌─────────────┐
+        │    IDEA     │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │    CODE     │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │  HARDWARE   │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │   SENSOR    │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │    DATA     │
+        └──────┬──────┘
+               ↓
+        ┌─────────────┐
+        │   ACTION    │
+        └─────────────┘
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
+02 // CURRENT LOADOUT
 
-**Also working with:**
+Area       Working With
 
-`ESP32` • `VEGA Aries IoT` • `Sensors` • `UART` • `SPI` • `I2C`
+LANG     C, Python
+MCU      ESP32, Arduino, VEGA
+IoT      Sensor systems, dashboards, connectivity
+COMM     UART, SPI, I²C
+SIM      Wokwi
+DESIGN   PCB / electronics design
+TOOLS    VS Code, Arduino IDE, Git, GitHub
+LAB      Sensors, actuators, embedded prototypes
 
-### 🛠️ Tools
+03 // REPOSITORY MAP
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
-</p>
+My GitHub is organized like a small engineering workspace:
 
-`Wokwi` • `Arduino IDE` • `PCB Design` • `Proteus`
+devamitra-b/
+│
+├── code-with-c/          → C programming practice
+├── Electronics_Playground/ → electronics experiments
+├── 8085A_Toolkit/        → 8085A learning & programs
+├── Maze_with_me/         → robotics / maze project
+├── VEGA/                 → VEGA board experiments
+│
+└── project-lab/
+    ├── sensors/
+    ├── embedded/
+    ├── iot/
+    └── experiments/
 
----
+Repositories will keep changing as the lab grows.
 
-# 🚀 Featured Projects
+04 // BUILDS
 
-### 🌱 Smart Street Light Fault Detection
+01 --- Maze Robot
 
-An embedded/IoT-based system designed to monitor street-light conditions and identify possible faults.
+A robotics project focused on sensing, decision-making and movement.
 
-**Technologies:**  
-`Embedded Systems` `Sensors` `IoT` `Microcontroller`
+Stack: Arduino Sensors Embedded C Robotics
 
----
+02 --- Smart Street Light Fault Detection
 
-### 🐔 Smart Poultry Farm Monitoring System
+An electronics/embedded concept for identifying abnormal street-light
+conditions.
 
-A monitoring system designed to observe environmental conditions in poultry farming and improve automation.
+Stack: Sensors Microcontroller Embedded Systems IoT
 
-**Technologies:**  
-`IoT` `Sensors` `Embedded C` `Monitoring`
+03 --- Smart Poultry Farm Monitoring
 
----
+A monitoring concept combining environmental sensing with automated
+observation.
 
-### 🦷 Smart Dental Kit
+Stack: IoT Sensors Embedded Systems
 
-A smart electronics project focused on developing an intelligent dental-care solution.
+04 --- Smart Dental Kit
 
-**Technologies:**  
-`Embedded Systems` `Sensors` `Microcontroller`
+A smart-device concept combining electronics, sensing and embedded
+control.
 
----
+Stack: Embedded Systems Sensors Microcontroller
 
-### 🤖 Maze Robot
+05 --- VEGA Experiments
 
-A robotics project involving sensor-based navigation and embedded control.
+Hands-on experiments with the VEGA Aries IoT platform, serial
+communication and embedded development.
 
-**Technologies:**  
-`Arduino` `Sensors` `Embedded C` `Robotics`
+Stack: VEGA UART Arduino IDE Embedded C
 
----
+05 // DEBUG CONSOLE
 
-### 💻 C Programming
+The most useful part of embedded development is often the bug.
 
-A collection of C programming problems, practice programs and learning exercises.
+EXPECTED ────────────────┐
+                         │
+                         ▼
+                    ┌─────────┐
+                    │ TEST    │
+                    └────┬────┘
+                         │
+                  ┌──────▼──────┐
+                  │  WORKING?   │
+                  └───┬─────┬───┘
+                    YES│     │NO
+                       │     │
+                       ▼     ▼
+                    SHIP   DEBUG
+                             │
+                ┌────────────▼────────────┐
+                │ Check wiring             │
+                │ Check voltage            │
+                │ Check baud/protocol      │
+                │ Check code               │
+                │ Check assumptions        │
+                └────────────┬────────────┘
+                             │
+                             └──────→ TEST
 
-**Topics:**
+Rule: Don't guess the bug. Measure it.
 
-`Variables` • `Loops` • `Arrays` • `Functions` • `Pointers` • `Structures`
+06 // LEARNING QUEUE
 
----
+[██████████░░░░░░░░░░]  C Programming
+[███████░░░░░░░░░░░░░]  Embedded C
+[██████░░░░░░░░░░░░░░]  Microcontrollers
+[█████░░░░░░░░░░░░░░░]  Communication Protocols
+[█████░░░░░░░░░░░░░░░]  IoT Systems
+[████░░░░░░░░░░░░░░░░]  PCB Design
+[███░░░░░░░░░░░░░░░░░]  Embedded AI
 
-# 📡 Embedded Systems Interests
+Progress bars represent learning focus, not formal skill ratings.
 
-```text
-                    EMBEDDED SYSTEMS
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-   Microcontrollers      Sensors          Communication
-        │                  │                  │
-      ESP32             DHT11              UART
-      VEGA              MQ135              SPI
-      Arduino            SGP40              I2C
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           │
-                          IoT
-                           │
-                    Smart Systems
+07 // ENGINEERING PRINCIPLES
+
+01  Understand before copying.
+02  Test hardware before blaming software.
+03  Read the datasheet.
+04  Use the serial monitor as a microscope.
+05  Keep experiments reproducible.
+06  Document the failure, not only the success.
+07  Build small → test → improve → scale.
+
+08 // 8085 → ESP32 → VEGA
+
+One of the things I enjoy is seeing how the same fundamentals appear at
+different levels:
+
+8085
+ │
+ ├── Registers
+ ├── Memory
+ └── Instructions
+       │
+       ▼
+   Microcontrollers
+       │
+       ├── GPIO
+       ├── Timers
+       ├── UART
+       └── Interrupts
+              │
+              ▼
+        Connected Systems
+              │
+              ├── Sensors
+              ├── IoT
+              ├── Data
+              └── Automation
+
+09 // GITHUB ACTIVITY
+
+::: {align="center"}
+<img src="https://github-readme-stats.vercel.app/api?username=devamitra-b&show_icons=true&hide_border=true&theme=transparent" width="48%"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamitra-b&layout=compact&hide_border=true&theme=transparent" width="38%"/>{=html}
+:::
+
+10 // FIND ME
+
+::: {align="center"}
+
+:::
+
+::: {align="center"}
+
+┌─────────────────────────────────────────────┐
+│                                             │
+│   LEARN HARDWARE.                           │
+│   WRITE CODE.                               │
+│   DEBUG FEARLESSLY.                         │
+│   BUILD SOMETHING REAL.                     │
+│                                             │
+└─────────────────────────────────────────────┘
+
+SYSTEM STATUS: BUILDING
+
+:::
