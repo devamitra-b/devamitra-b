@@ -50,10 +50,6 @@ I specialize in turning electronics concepts into practical systems by integrati
 
 ---
 
-
-
-
-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
