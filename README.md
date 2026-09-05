@@ -1,5 +1,9 @@
 # Devamitra-b
 
+
+
+
+
 <img width="887" height="147" alt="Screenshot" src="https://github.com/user-attachments/assets/ec6e6354-12fa-4a53-9d5e-06bc7a31435d" />
 
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+%7C+Firmware)](https://github.com/devamitra-b)
